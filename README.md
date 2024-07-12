@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/akshat407/leetcode_questions/tree/master/0493-reverse-pairs) |
+| [3463-alternating-groups-i](https://github.com/akshat407/leetcode_questions/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/akshat407/leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/akshat407/leetcode_questions/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
