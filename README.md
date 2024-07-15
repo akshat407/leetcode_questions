@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akshat407/leetcode_questions/tree/master/0039-combination-sum) |
+| [0073-set-matrix-zeroes](https://github.com/akshat407/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/akshat407/leetcode_questions/tree/master/0198-house-robber) |
 | [0493-reverse-pairs](https://github.com/akshat407/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [3463-alternating-groups-i](https://github.com/akshat407/leetcode_questions/tree/master/3463-alternating-groups-i) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/akshat407/leetcode_questions/tree/master/0198-house-robber) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshat407/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshat407/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
